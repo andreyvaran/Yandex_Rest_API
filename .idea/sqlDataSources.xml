@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="8dc73d9c-f642-4e34-9e5d-f4b75a8df607" />
+          <option name="name" value="server" />
+          <option name="urls">
+            <array>
+              <option value="file://$APPLICATION_CONFIG_DIR$/scratches/server.db" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
